@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Test">
+    <classes>
+      <class name="com.orangehrm.testcases.TC01_Login"/>
+    <class name="com.orangehrm.testcases.TC_02_PIMCreation"/>
+     <class name="com.orangehrm.testcases.TC_03_PIM_Search"/>
+      <class name="com.orangehrm.testcases.TC_04_Admin_Creation"/>
+       <class name="com.orangehrm.testcases.TC_05_Admin_Search"/>
+        <class name="com.orangehrm.testcases.TC_06_Delete_Employee_PIM"/>   
+      <class name="com.orangehrm.testcases.TC_07_delete_Employee_Admin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

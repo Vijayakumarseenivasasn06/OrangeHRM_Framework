@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="19" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-02T05:56:17Z" name="Suite" finished-at="2024-09-02T06:05:23Z" duration-ms="546563">
+    <groups>
+    </groups>
+    <test started-at="2024-09-02T05:56:17Z" name="Test" finished-at="2024-09-02T06:05:23Z" duration-ms="546563">
+      <class name="com.orangehrm.testcases.TC_07_delete_Employee_Admin">
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_07_delete_Employee_Admin@289710d9]" started-at="2024-09-02T06:03:08Z" name="report" finished-at="2024-09-02T06:03:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_07_delete_Employee_Admin@289710d9]" started-at="2024-09-02T06:03:08Z" name="beforeMethod" finished-at="2024-09-02T06:04:21Z" duration-ms="73166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Delete_Employee_Admin()[pri:0, instance:com.orangehrm.testcases.TC_07_delete_Employee_Admin@289710d9]" started-at="2024-09-02T06:04:21Z" name="Delete_Employee_Admin" finished-at="2024-09-02T06:05:23Z" duration-ms="61884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_Employee_Admin -->
+      </class> <!-- com.orangehrm.testcases.TC_07_delete_Employee_Admin -->
+      <class name="com.orangehrm.testcases.TC_03_PIM_Search">
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_03_PIM_Search@4eb386df]" started-at="2024-09-02T05:58:01Z" name="report" finished-at="2024-09-02T05:58:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_03_PIM_Search@4eb386df]" started-at="2024-09-02T05:58:01Z" name="beforeMethod" finished-at="2024-09-02T05:59:38Z" duration-ms="97041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PIMSearch()[pri:0, instance:com.orangehrm.testcases.TC_03_PIM_Search@4eb386df]" started-at="2024-09-02T05:59:38Z" name="PIMSearch" finished-at="2024-09-02T05:59:53Z" duration-ms="15162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PIMSearch -->
+      </class> <!-- com.orangehrm.testcases.TC_03_PIM_Search -->
+      <class name="com.orangehrm.testcases.TC_02_PIMCreation">
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_02_PIMCreation@2f1de2d6]" started-at="2024-09-02T05:56:38Z" name="report" finished-at="2024-09-02T05:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_02_PIMCreation@2f1de2d6]" started-at="2024-09-02T05:56:38Z" name="beforeMethod" finished-at="2024-09-02T05:57:48Z" duration-ms="69612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PimCreation()[pri:0, instance:com.orangehrm.testcases.TC_02_PIMCreation@2f1de2d6]" started-at="2024-09-02T05:57:48Z" name="PimCreation" finished-at="2024-09-02T05:58:01Z" duration-ms="13450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PimCreation -->
+      </class> <!-- com.orangehrm.testcases.TC_02_PIMCreation -->
+      <class name="com.orangehrm.testcases.TC_06_Delete_Employee_PIM">
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_06_Delete_Employee_PIM@7ac0e420]" started-at="2024-09-02T06:02:09Z" name="report" finished-at="2024-09-02T06:02:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_06_Delete_Employee_PIM@7ac0e420]" started-at="2024-09-02T06:02:09Z" name="beforeMethod" finished-at="2024-09-02T06:02:50Z" duration-ms="40512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Delete_Employees()[pri:0, instance:com.orangehrm.testcases.TC_06_Delete_Employee_PIM@7ac0e420]" started-at="2024-09-02T06:02:50Z" name="Delete_Employees" finished-at="2024-09-02T06:03:08Z" duration-ms="18410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_Employees -->
+      </class> <!-- com.orangehrm.testcases.TC_06_Delete_Employee_PIM -->
+      <class name="com.orangehrm.testcases.TC_05_Admin_Search">
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_05_Admin_Search@3a0baae5]" started-at="2024-09-02T06:01:27Z" name="report" finished-at="2024-09-02T06:01:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_05_Admin_Search@3a0baae5]" started-at="2024-09-02T06:01:27Z" name="beforeMethod" finished-at="2024-09-02T06:01:49Z" duration-ms="21732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Admin_search()[pri:0, instance:com.orangehrm.testcases.TC_05_Admin_Search@3a0baae5]" started-at="2024-09-02T06:01:49Z" name="Admin_search" finished-at="2024-09-02T06:02:09Z" duration-ms="20660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin_search -->
+      </class> <!-- com.orangehrm.testcases.TC_05_Admin_Search -->
+      <class name="com.orangehrm.testcases.TC_04_Admin_Creation">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC_04_Admin_Creation@79517588]" started-at="2024-09-02T05:59:53Z" name="beforeMethod" finished-at="2024-09-02T06:00:47Z" duration-ms="53548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC_04_Admin_Creation@79517588]" started-at="2024-09-02T05:59:53Z" name="report" finished-at="2024-09-02T05:59:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method signature="Admin_Creation()[pri:0, instance:com.orangehrm.testcases.TC_04_Admin_Creation@79517588]" started-at="2024-09-02T06:00:47Z" name="Admin_Creation" finished-at="2024-09-02T06:01:27Z" duration-ms="40160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin_Creation -->
+      </class> <!-- com.orangehrm.testcases.TC_04_Admin_Creation -->
+      <class name="com.orangehrm.testcases.TC01_Login">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T05:56:17Z" name="startReport" finished-at="2024-09-02T05:56:17Z" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T05:56:17Z" name="setData" finished-at="2024-09-02T05:56:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="Setdata()[pri:0, instance:com.orangehrm.testcases.TC_05_Admin_Search@3a0baae5]" started-at="2024-09-02T05:56:17Z" name="Setdata" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setdata -->
+        <test-method is-config="true" signature="Setdata()[pri:0, instance:com.orangehrm.testcases.TC_04_Admin_Creation@79517588]" started-at="2024-09-02T05:56:17Z" name="Setdata" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setdata -->
+        <test-method is-config="true" signature="Set_Data()[pri:0, instance:com.orangehrm.testcases.TC_02_PIMCreation@2f1de2d6]" started-at="2024-09-02T05:56:17Z" name="Set_Data" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_Data -->
+        <test-method is-config="true" signature="Setdata()[pri:0, instance:com.orangehrm.testcases.TC_03_PIM_Search@4eb386df]" started-at="2024-09-02T05:56:17Z" name="Setdata" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setdata -->
+        <test-method is-config="true" signature="setdata()[pri:0, instance:com.orangehrm.testcases.TC_06_Delete_Employee_PIM@7ac0e420]" started-at="2024-09-02T05:56:17Z" name="setdata" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdata -->
+        <test-method is-config="true" signature="setdata()[pri:0, instance:com.orangehrm.testcases.TC_07_delete_Employee_Admin@289710d9]" started-at="2024-09-02T05:56:17Z" name="setdata" finished-at="2024-09-02T05:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdata -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T05:56:17Z" name="report" finished-at="2024-09-02T05:56:17Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T05:56:17Z" name="beforeMethod" finished-at="2024-09-02T05:56:33Z" duration-ms="15777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_HRM()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T05:56:33Z" name="login_HRM" finished-at="2024-09-02T05:56:38Z" duration-ms="5390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_HRM -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:com.orangehrm.testcases.TC01_Login@6a55299e]" started-at="2024-09-02T06:05:23Z" name="stopReport" finished-at="2024-09-02T06:05:24Z" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.orangehrm.testcases.TC01_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
